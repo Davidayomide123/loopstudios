@@ -173,7 +173,7 @@ footer a {
 
   .nav-div{
     margin: 40px;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 250px;
   }
 
@@ -191,7 +191,7 @@ footer a {
   }
 
   .first-section-box{
-    margin-left: 140px;
+    margin-left: 50px;
   }
 
   .first-section-box button {
@@ -279,7 +279,7 @@ footer a {
 
   .nav-div{
     margin: 40px;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 250px;
   }
 
@@ -297,7 +297,7 @@ footer a {
   }
 
   .first-section-box{
-    margin-left: 140px;
+    margin-left: 50px;
   }
 
   .first-section-box button {
@@ -384,7 +384,7 @@ footer a {
 
   .nav-div{
     margin: 40px;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 250px;
   }
 
@@ -402,7 +402,7 @@ footer a {
   }
 
   .first-section-box{
-    margin-left: 140px;
+    margin-left: 50px;
   }
 
   .first-section-box button {
