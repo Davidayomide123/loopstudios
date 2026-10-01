@@ -240,7 +240,7 @@ footer a {
   .first-section{
   background-image: url("images/desktop/image-hero.jpg");
   height: 80vh;
-  width: 142.5%;
+  width: 150%;
   }
   
   footer{
@@ -302,26 +302,3 @@ footer a {
 
 }
 
-@media screen and (max-width: 428px) {
-   .first-section{
-  background-image: url("images/desktop/image-hero.jpg");
-  height: 80vh;
-  width: 135.5%;
-  }
-  
-  footer{
-    width: 112.2%;
-    height: 70vh;
-  }
-
-   .vr-container-wrapper{
-    padding-bottom: 200px;
-    margin-left: -30px;
-  }
-
-   .first-section-box button {
-    width: 430px;
-    margin-left: -5px;
-  }
-
-}
