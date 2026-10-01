@@ -239,12 +239,12 @@ footer a {
 @media screen and (max-width: 393px) {
   .first-section{
   background-image: url("images/desktop/image-hero.jpg");
-  height: 70vh;
+  height: 80vh;
   width: 552px;
   }
   
   footer{
-    width: 115%;
+    width: 115.5%;
     height: 70vh;
   }
 
