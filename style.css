@@ -244,18 +244,18 @@ footer a {
   }
   
   footer{
-    width: 115.5%;
-    height: 70vh;
+    width: 116%;
+    height: 80vh;
   }
 
    .vr-container-wrapper{
     padding-bottom: 200px;
-    margin-left: -37px;
+    margin-left: -45px;
   }
 
    .first-section-box button {
     width: 450px;
-    margin-left: -20px;
+    margin-left: -30px;
   }
 }
 
