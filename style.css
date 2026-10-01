@@ -240,11 +240,11 @@ footer a {
   .first-section{
   background-image: url("images/desktop/image-hero.jpg");
   height: 80vh;
-  width: 150%;
+  width: 140.1%;
   }
   
   footer{
-    width: 117%;
+    width: 114.8%;
     height: 70vh;
   }
 
@@ -301,4 +301,3 @@ footer a {
   }
 
 }
-
